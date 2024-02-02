@@ -1,6 +1,6 @@
 # MiniGames
 
-Este proyecto es una colección de mini juegos creados con React. Tras finalizar el bootcamp de programación web de Adalab, mi maravillosa compi
+Este proyecto es una colección de mini juegos creados con React. Tras finalizar el bootcamp de programación web de Adalab, mi maravillosa compi [Marina Caro](https://github.com/marinacr92) y yo decidimos seguir prácticando nuestras habilidades con este pequeño proyecto.
 
 ## Contenido
 

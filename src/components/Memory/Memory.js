@@ -262,8 +262,9 @@ const Memory = () => {
           isExploding={isExplodingMem}
           closeModal={closeModalMem}
           winner={`¡Has ganado en ${Math.floor(counter / 2)} movimientos!`}
-          handleReset={handleRestartGame}
-          handlePlayAgain={handleChangeTheme}
+          // handleReset={handleRestartGame}
+          handlePlayAgain={handleRestartGame}
+          handleReset={handleChangeTheme}
           game={'memory'}
         />
       </main>

@@ -5,7 +5,6 @@ import Landing from './Landing';
 import TicTacToe from './TicTacToe/TicTacToe';
 import Memory from './Memory/Memory';
 import NotFound from './NotFound';
-import Footer from './Footer';
 //import React, { useEffect, useState } from 'react';
 import { Route, Routes } from 'react-router-dom';
 
@@ -65,8 +64,6 @@ function App() {
           }
         />
       </Routes>
-      {/* <Footer /> */}
-      {/* </div> */}
     </>
   );
 }
